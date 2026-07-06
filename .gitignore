@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.env
+/data/
+/backups/
+/plugins/akismet
+/plugins/hello.php
+/plugins/create-block-theme
+/themes/twenty*
